@@ -19,7 +19,7 @@ You may have installed Git, Node and Yarn on your operational system. I'm using 
 $ git clone https://github.com/rquintam/gostack-challenge-nodejs-concepts
 
 # access the cloned repository
-$ cd gostack-desafio-conceitos-nodejs
+$ cd gostack-challenge-nodejs-concepts
 
 # install project dependencies
 $ yarn
